@@ -1,4 +1,4 @@
-# Hi Im Ebony! :purple_heart:
+<font color="purple"># Hi Im Ebony! :purple_heart:</font>
 [Here's is my LinkedIn :kissing_heart:](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 Im a 29 year old memphis resident. I've been a natural hairstylist for over 10 years but now am shifting my focus into software development.
